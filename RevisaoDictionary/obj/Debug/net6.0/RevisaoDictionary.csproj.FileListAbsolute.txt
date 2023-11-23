@@ -1,0 +1,14 @@
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\bin\Debug\net6.0\RevisaoDictionary.exe
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\bin\Debug\net6.0\RevisaoDictionary.deps.json
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\bin\Debug\net6.0\RevisaoDictionary.runtimeconfig.json
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\bin\Debug\net6.0\RevisaoDictionary.dll
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\bin\Debug\net6.0\RevisaoDictionary.pdb
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\RevisaoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\RevisaoDictionary.AssemblyInfoInputs.cache
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\RevisaoDictionary.AssemblyInfo.cs
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\RevisaoDictionary.csproj.CoreCompileInputs.cache
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\RevisaoDictionary.dll
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\refint\RevisaoDictionary.dll
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\RevisaoDictionary.pdb
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\RevisaoDictionary.genruntimeconfig.cache
+D:\Projetos C#\RevisaoDictionary\RevisaoDictionary\obj\Debug\net6.0\ref\RevisaoDictionary.dll

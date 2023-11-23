@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ijq/uPpp63OIkZ2c7GEkPzcLQB4VAofz2Ym6ajnR9gFmNQtaEDn5trzQ2qSA8Zl3hps8bREdfwzNJHCUw3KSbA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos C#\\RevisaoDictionary\\RevisaoDictionary\\RevisaoDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wellington\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.21\\microsoft.netcore.app.host.win-x86.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
